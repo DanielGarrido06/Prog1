@@ -3,11 +3,13 @@ Este repositório contém exercícios resolvidos e comentados da disciplina de P
 
 
 ## Estrutura do Repositório
-Antigos - Diagrmas/
-    Pasta contendo exercícios passados antes da P1, que originalmente pediam Diagramas de Chapin, feitos em Python como referência de como os diagramas se "traduzem" para o Python.
+Antigos - Diagrmas\
 
-Python/
-    Pasta contendo exercícios passados após a P1, já originalmente pedindo código em Python.
+Pasta contendo exercícios passados antes da P1, que originalmente pediam Diagramas de Chapin, feitos em Python como referência de como os diagramas se "traduzem" para o Python.
+
+Python\
+
+Pasta contendo exercícios passados após a P1, já originalmente pedindo código em Python.
 
 
 ## Contribuições
